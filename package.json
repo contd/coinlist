@@ -1,0 +1,16 @@
+{
+  "name": "coinlist",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [],
+  "author": "Jason Kumpf <jason@kumpf.io> (https://kumpf.io/)",
+  "license": "MIT",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --browser=chromium-browser"
+  },
+  "devDependencies": {
+    "eslint": "^5.1.0",
+    "live-server": "^1.2.0"
+  }
+}
